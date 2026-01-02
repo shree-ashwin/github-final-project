@@ -10,3 +10,4 @@ based on user input.
 
 ## Output
 - Simple Interest value
+Minor typo fixed.
